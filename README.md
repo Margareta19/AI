@@ -19,8 +19,8 @@ Each laboratory is organized to keep the Python scripts, datasets, and generated
 | 4 | Lab 04 | Previous laboratory work | Completed |
 | 5 | Lab 05 | Robotics Sensor Control | Completed |
 | 6 | Lab 06 | Handwriting OCR Evaluation | Completed |
-| 7 | Lab 07 | Airline Tweet Sentiment Classification | Pending |
-| 8 | Lab 08 | Logical Reasoning, Semantic Networks and NLP | Pending |
+| 7 | Lab 07 | Airline Tweet Sentiment Classification | Completed |
+| 8 | Lab 08 | Logical Reasoning, Semantic Networks and NLP | Completed |
 | 9 | Lab 09 | Genetic Algorithm for Delivery Route Optimisation | Pending |
 
 ## Repository Structure
