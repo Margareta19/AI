@@ -1,0 +1,5 @@
+algorithm,success_rate,mean_cost_km,mean_hops,mean_expanded,median_runtime_ms
+A*,1.0,14697.34,3.33,94.33,4.43
+BFS,1.0,17752.11,2.0,230.0,5.77
+GBFS,1.0,15376.38,2.67,2.67,3.99
+UCS,1.0,14697.34,3.33,2631.67,10.83
